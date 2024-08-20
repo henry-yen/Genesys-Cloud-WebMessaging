@@ -68,6 +68,7 @@ window.addEventListener('DOMContentLoaded', event => {
     ys = document.createElement('script'); ys.async = 1; ys.src = n; ys.charset = 'utf-8'; document.head.appendChild(ys);
   })(window, 'Genesys', 'https://apps.mypurecloud.jp/genesys-bootstrap/genesys.min.js', {
     environment: 'prod-apne1',
-    deploymentId: 'ed28a108-82a4-4607-a1a9-fef51e0e5cfa'
+    deploymentId: '55b977a6-5a9a-4548-b2bb-f7485763eb14'
   });
+
 
