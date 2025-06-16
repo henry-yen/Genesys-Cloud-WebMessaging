@@ -58,6 +58,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
+<script type="text/javascript" charset="utf-8">
   (function (g, e, n, es, ys) {
     g['_genesysJs'] = e;
     g[e] = g[e] || function () {
@@ -68,7 +69,8 @@ window.addEventListener('DOMContentLoaded', event => {
     ys = document.createElement('script'); ys.async = 1; ys.src = n; ys.charset = 'utf-8'; document.head.appendChild(ys);
   })(window, 'Genesys', 'https://apps.mypurecloud.jp/genesys-bootstrap/genesys.min.js', {
     environment: 'prod-apne1',
-    deploymentId: '55b977a6-5a9a-4548-b2bb-f7485763eb14'
+    deploymentId: '6fe6eb87-a1b7-42ca-92e5-b007c7b63e3c'
   });
+</script>
 
 
